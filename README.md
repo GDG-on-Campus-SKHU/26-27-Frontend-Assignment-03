@@ -1,7 +1,3 @@
-# 26-27 Assignment template
+# 제출 기한
 
-## 사용하는 방법
-
-1. 레포를 생성할 때 해당 템플릿을 선택합니다.
-2. `.github/CODEOWNER`에 해당 파트 Core 멤버만 남깁니다.
-3. [`Auto assign`](https://github.com/apps/auto-assign) 앱을 등록합니다.
+11월 9일 월요일 오후 11시 59분까지 제출
