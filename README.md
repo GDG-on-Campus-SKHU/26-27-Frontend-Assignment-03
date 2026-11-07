@@ -3,10 +3,12 @@
 11월 9일 월요일 오후 11시 59분까지 제출
 
 # 제출 방법
+## *지난 주차 과제 작업한 본인 폴더에서 제출합니다*
 
-### 1. `git remote remove origin`
+### 1. `git remote remove origin` 
+- 지난 주차 과제 저장소 삭제
 
-### 2. `git remote add origin [포크한 본인 저장소]`
+### 2. `git remote add origin [포크한 본인의 03 저장소]`
 
 ### 3. `git remote -v` 로 바뀐 저장소 확인
 
