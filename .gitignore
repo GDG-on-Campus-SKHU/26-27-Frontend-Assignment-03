@@ -1,9 +1,42 @@
+<<<<<<< HEAD
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+=======
+>>>>>>> f9bae4e2479b1677da8aa5b02d1ee3b0eed8050b
 # 윈도우 사용자
 desktop.ini
 Thumbs.db
 
 # 맥 사용자
 ._*
+<<<<<<< HEAD
+.Spotlight-V100
+.Trashes
+=======
 .DS_Store
 .Spotlight-V100
 .Trashes
+>>>>>>> f9bae4e2479b1677da8aa5b02d1ee3b0eed8050b
