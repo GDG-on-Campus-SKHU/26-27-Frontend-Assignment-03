@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Logs
 logs
 *.log
@@ -23,11 +24,19 @@ dist-ssr
 *.sln
 *.sw?
 
+=======
+>>>>>>> f9bae4e2479b1677da8aa5b02d1ee3b0eed8050b
 # 윈도우 사용자
 desktop.ini
 Thumbs.db
 
 # 맥 사용자
 ._*
+<<<<<<< HEAD
 .Spotlight-V100
 .Trashes
+=======
+.DS_Store
+.Spotlight-V100
+.Trashes
+>>>>>>> f9bae4e2479b1677da8aa5b02d1ee3b0eed8050b
